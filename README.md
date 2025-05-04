@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Utkarsh Bagaria from India. I am currently pursuing my B.Tech Degree at PES University.</h2>
+<h2 align="left">Hi 👋! I am Utkarsh Bagaria from India. I am currently working at Digicert.</h2>
 
 ###
 
